@@ -2,9 +2,12 @@
 #Practica 1 de la función 
 #Variables
 
-
-#Jimenez Gamboa Issis Alexa 3W 
-
+print("")
+print("Esta es mi prcatica 1 de variables")
+print("")
+print("")
+print("Jimenez Gamboa Issis Alexa 3W")
+print("")
 # Asignación de valores a las variables x e y
 x = 10  # x se establece en 10
 y = 20  # y se establece en 20
@@ -21,4 +24,5 @@ print("La suma de los dos números es: ")  # Mensaje descriptivo
 # Calcular y mostrar la suma de x e y
 print(x + y)  # Muestra el resultado de la suma de x e y
 
-![image](https://github.com/user-attachments/assets/14bfac19-1344-442c-8ca5-38760467eaa8)
+
+![image](https://github.com/user-attachments/assets/46db9e31-2b7a-4422-891c-7925a3205f0f)
